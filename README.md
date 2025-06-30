@@ -75,7 +75,7 @@ All models were trained on original and balanced datasets for comparison.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/RamKishoreKV/Human-Activity-Recognition-using-Smartphone-Sensor-Data-Pyspark.git
+   git clone https://github.com/RamKishoreKV/Human-Activity-Recognition-PySpark.git
    cd Human-Activity-Recognition-using-Smartphone-Sensor-Data-Pyspark
 2. Open HAR_analysis.ipynb in Google Colab or Jupyter
 3. Make sure PySpark is installed
