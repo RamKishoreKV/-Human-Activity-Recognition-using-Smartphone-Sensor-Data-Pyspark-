@@ -96,7 +96,8 @@ MulticlassClassificationEvaluator (Apache Spark MLlib)
 
 📬 Author
 Ram Kishore KV
-M.S Data Science@Drexel University
+M.S Data Science
+Drexel University
 
 
 
