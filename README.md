@@ -76,10 +76,11 @@ All models were trained on original and balanced datasets for comparison.
 1. Clone the repo:
    ```bash
    git clone https://github.com/RamKishoreKV/Human-Activity-Recognition-PySpark.git
-   cd Human-Activity-Recognition-using-Smartphone-Sensor-Data-Pyspark
+
 2. Open HAR_analysis.ipynb in Google Colab or Jupyter
 3. Make sure PySpark is installed
 4. Run all cells step-by-step
+5. Make sure Dataset is mounted properly
 📌 Results Summary
 Best Accuracy: Ensemble on Balanced Dataset
 
