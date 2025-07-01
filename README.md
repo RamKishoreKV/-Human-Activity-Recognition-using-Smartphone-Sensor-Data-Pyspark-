@@ -82,7 +82,7 @@ All models were trained on original and balanced datasets for comparison.
 4. Run all cells step-by-step
 5. Make sure Dataset is mounted properly
 
-##📌 Results Summary
+## 📌 Results Summary
 Best Accuracy: Ensemble on Balanced Dataset
 
 Key Insight: Balancing data improved all model metrics significantly
