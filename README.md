@@ -89,14 +89,14 @@ Key Insight: Balancing data improved all model metrics significantly
 
 Confusion Matrices: Printed for all models
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 UCI Machine Learning Repository – Human Activity Dataset
 
 Google Colab + PySpark
 
 MulticlassClassificationEvaluator (Apache Spark MLlib)
 
-📬 Author
+## 📬 Author
 Ram Kishore KV
 M.S Data Science
 Drexel University
